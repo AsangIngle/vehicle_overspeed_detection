@@ -1,6 +1,6 @@
 # Vehicle Overspeed Detection System
 
-This project is a **Vehicle Overspeed Detection and Number Plate Recognition System** built using **YOLOv8, SORT Tracker, EasyOCR, and TensorFlow**. It detects vehicles in video footage, calculates their speed, identifies overspeeding vehicles, and recognizes license plates. Alerts are sent via **Twilio SMS**.  
+This project is a **Vehicle Overspeed Detection and Number Plate Recognition System** built using **YOLOv8, SORT Tracker, EasyOCR**. It detects vehicles in video footage, calculates their speed, identifies overspeeding vehicles, and recognizes license plates. Alerts are sent via **Twilio SMS**.  
 
 ---
 
@@ -37,11 +37,10 @@ This project is a **Vehicle Overspeed Detection and Number Plate Recognition Sys
   - `ultralytics`
   - `sort`
   - `easyocr`
-  - `tensorflow`
   - `keras`
   - `twilio`
   - `matplotlib`
-  - `tensorflow_datasets`
+  
 
 ---
 
